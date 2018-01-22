@@ -1,0 +1,20 @@
+P1: 5
+P2: 1
+P3: 4
+P4: 2
+Nota: 12
+
+P1
+Las HU en formato connextra las pueden poner directamente en el product backlog.
+P2
+Faltan entidades importantes: cancha, reserva, estado reserva,inscripción, estado inscripción.
+Solamente pone dos relaciones (agregación) de las varias que describe.
+P3
+Las relaciones de include no son correctas ya que no siempre ser realizan. Debería ser un extend.
+Debe detallar más las especificaciones.
+P4
+El diagrama de robustez del login por qué contempla también al registro?
+Clases controladoras llamadsa control object?
+Las clases de entidad deben ser entidades pertenecientes a su modelo de dominio.
+Solo hicieron 4 de 5."
+					
